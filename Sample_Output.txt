@@ -1,0 +1,6 @@
+{
+    "policyNumber": "POLICY-20250701",
+    "processingStatus": "Success",
+    "message": "Policy created successfully in the Insurance Application.",
+    "transactionId": "TXN-123456789"
+}
