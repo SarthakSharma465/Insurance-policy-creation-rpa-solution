@@ -1,4 +1,3 @@
-# Insurance-policy-creation-rpa-solution
 # 🚀 Policy Automation Using Power Platform & Azure Service Bus
 
 ## 📋 Project Overview
