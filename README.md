@@ -82,6 +82,38 @@ I developed this solution as the **sole developer** — covering everything deve
 - **Invoice Generation**
 - **Transactions**
 
+#### Sample JSON Input:
+{
+    "policyNumber": "POLICY-20250701",
+    "policyHolderName": "John Smith",
+    "policyHolderAddress": "456 Elm Street, Springfield",
+    "country": "US",
+    "postalCode": "62704",
+    "policyType": "Auto Insurance",
+    "coverageStartDate": "2025-07-01",
+    "coverageEndDate": "2026-06-30",
+    "insuredAmount": 150000,
+    "premiumAmount": 1200.50,
+    "policyStatus": "Active",
+    "agentId": "AGT-98765",
+    "agentName": "Sarah Johnson",
+    "commissionPercentage": 10,
+    "transactionType": "New Business",
+    "transactionDate": "2025-07-08",
+    "paymentMethod": "Credit Card",
+    "taxType": "Sales Tax",
+    "taxPercentage": 8.25
+}
+
+#### Sample JSON Output: 
+{
+    "policyNumber": "POLICY-20250701",
+    "processingStatus": "Success",
+    "message": "Policy created successfully in the Insurance Application.",
+    "transactionId": "TXN-123456789"
+}
+
+
 These flows comprise **Error Handling (with Screenshot Capture)** to deal with any failures.
 
 All sub-flows are modular for reuse and ease of maintenance.
