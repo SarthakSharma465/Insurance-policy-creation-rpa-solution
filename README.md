@@ -1,6 +1,6 @@
-# 🚀 Policy Automation Using Power Platform & Azure Service Bus
+# Policy Automation Using Power Platform & Azure Service Bus
 
-## 📋 Project Overview
+## Project Overview
 
 This project automates the policy creation process in an internal **Insurance Application** using **Microsoft Power Platform**, **Azure Service Bus (ASB)**, and **Unattended Robotic Process Automation (RPA)** flows.
 
@@ -10,7 +10,7 @@ I developed this solution as the **sole developer** — covering everything deve
 
 ---
 
-## 🔗 Solution Architecture
+## Solution Architecture
 
 1. The **Policy Source System** sends policy data as messages to an **Azure Service Bus Queue**.
 2. A **Power Automate Cloud Flow** is automatically triggered upon message arrival in the queue.
@@ -27,7 +27,7 @@ I developed this solution as the **sole developer** — covering everything deve
 
 ---
 
-## 💡 Key Features
+## Key Features
 
 - **Azure Service Bus Queue Integration**  
 - **Unattended Desktop RPA Automation**  
@@ -39,7 +39,7 @@ I developed this solution as the **sole developer** — covering everything deve
 
 ---
 
-## 🔍 Technical Highlights
+## Technical Highlights
 
 | Technology               | Details                                       |
 |--------------------------|-----------------------------------------------|
@@ -53,7 +53,7 @@ I developed this solution as the **sole developer** — covering everything deve
 ## Overall Solution Design
 ![Architecture Diagram](Architecture_Diagram.jpg)
 
-## 🔨 Power Automate Flow Design
+## Power Automate Flow Design
 
 ![Architecture Diagram](Power%20Automate%20Process%20Flow%20Diagram.png)
 
@@ -87,3 +87,11 @@ These flows comprise **Error Handling (with Screenshot Capture)** to deal with a
 All sub-flows are modular for reuse and ease of maintenance.
 
 ---
+## License
+This repository is for personal portfolio demonstration purposes only. No confidential or proprietary information is included.
+
+---
+
+## Author
+Sarthak Sharma  
+*Low-Code Developer | AI Automation/Innovation Engineer*
