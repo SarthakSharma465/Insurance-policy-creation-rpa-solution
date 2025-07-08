@@ -50,6 +50,8 @@ I developed this solution as the **sole developer** — covering everything deve
 | Insurance Application    | Target System for Policy Entry Automation     |
 
 ---
+## Overall Solution Design
+![Architecture Diagram](Architecture_Diagram.jpg)
 
 ## 🔨 Power Automate Flow Design
 
