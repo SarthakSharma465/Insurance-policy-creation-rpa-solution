@@ -54,7 +54,7 @@ I developed this solution as the **sole developer** — covering everything deve
 
 ## 🔨 Power Automate Flow Design
 
-![Architecture Diagram](Power%20Automate%Process%20Flow%20Diagram.png)
+![Architecture Diagram](Power%20Automate%20Process%20Flow%20Diagram.png)
 
 ### Cloud Flow
 - Triggered automatically when a message arrives in the ASB queue.
